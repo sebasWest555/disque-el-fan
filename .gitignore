@@ -1,0 +1,28 @@
+
+# Archivos temporales de Python
+__pycache__/
+*.py[cod]
+
+# Entornos virtuales de Python
+venv/
+.venv/
+env/
+
+# Módulos y paquetes locales
+python_modules/
+
+# Archivos de configuración y secretos
+.env
+.env.*
+!.env.example
+
+# Configuración de editores
+.vscode/
+.idea/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de registro
+*.log
